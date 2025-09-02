@@ -10,7 +10,7 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 
 
 
-📕 \*\*\[Clique aqui para ler o artigo](./article.md)\*\*  
+📕 **[Clique aqui para ler o artigo](./article.md)**  
 
 
 
@@ -38,7 +38,7 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 
 
 
-*\*Sora + PowerPoint\*\*  
+**Sora + PowerPoint**  
 
 
 
