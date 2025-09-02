@@ -1,6 +1,6 @@
-\# Projeto artigo técnico gerado por I.A.s  
+# Projeto artigo técnico gerado por I.A.s  
 
-ℹ️ NOTE: Este é o repositório desenvolvido a partir do artigo publicado na plataforma da DIO.  
+> ℹ️ NOTE: Este é o repositório desenvolvido a partir do artigo publicado na plataforma da DIO.  
 
 
 
@@ -68,7 +68,7 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 
 
 
-\## 🛠️ Instruções de execução  
+## 🛠️ Instruções de execução  
 
-\- Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point.
+- Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point.
 
