@@ -4,7 +4,7 @@
 
 
 
-\## 🎯 Objetivo  
+## 🎯 Objetivo  
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.  
 
@@ -14,17 +14,15 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 
 
 
-\## 💻 Tecnologias utilizadas no projeto  
+## 💻 Tecnologias utilizadas no projeto  
 
-\- \*\*ChatGPT\*\* – para criação de título, estrutura e conteúdo do artigo  
-
-\- \*\*Sora + PowerPoint\*\* – para formatação de banners, capa e layouts visuais  
-
-\- \*\*Ferramentas de IA\*\* – para geração de imagens ilustrativas  
+- \*\*ChatGPT\*\* – para criação de título, estrutura e conteúdo do artigo  
+- \*\*Sora + PowerPoint\*\* – para formatação de banners, capa e layouts visuais  
+- \*\*Ferramentas de IA\*\* – para geração de imagens ilustrativas  
 
 
 
-\## 📄 Prompts e ferramentas  
+## 📄 Prompts e ferramentas  
 
 
 
@@ -40,31 +38,31 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 
 
 
-\*\*Sora + PowerPoint\*\*  
+*\*Sora + PowerPoint\*\*  
 
 
 
-\- Criação da capa e banners ilustrativos com base no conteúdo gerado pelo ChatGPT  
+- Criação da capa e banners ilustrativos com base no conteúdo gerado pelo ChatGPT  
 
-\- Layouts ajustados para melhor leitura no blog da DIO  
-
-
-
-\## ✨ Features  
-
-\- Conteúdo gerado via \*\*ChatGPT (IA)\*\*  
-
-\- Imagens criadas com apoio de \*\*IA\*\*  
-
-\- Revisão e diagramação humanas 
+- Layouts ajustados para melhor leitura no blog da DIO  
 
 
 
-\## 📚 Materiais  
+## ✨ Features  
 
-\- \*\*Prompts utilizados\*\*: documentados neste README  
+- Conteúdo gerado via \*\*ChatGPT (IA)\*\*  
 
-\- \*\*Artigo completo\*\*: disponível em `article.md`  
+- Imagens criadas com apoio de \*\*IA\*\*  
+
+- Revisão e diagramação humanas 
+
+
+
+## 📚 Materiais  
+
+- \*\*Prompts utilizados\*\*: documentados neste README  
+
+- \*\*Artigo completo\*\*: disponível em `article.md`  
 
 
 
