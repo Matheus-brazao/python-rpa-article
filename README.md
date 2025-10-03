@@ -60,9 +60,9 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 
 ## 📚 Materiais  
 
-- \*\*Prompts utilizados\*\*: documentados neste README  
+- **Prompts utilizados**: documentados neste README  
 
-- \*\*Artigo completo\*\*: disponível em `article.md`  
+- **Artigo completo**: disponível em `article.md`  
 
 
 
