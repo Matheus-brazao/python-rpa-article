@@ -50,9 +50,9 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 
 ## ✨ Features  
 
-- Conteúdo gerado via \*\*ChatGPT (IA)\*\*  
+- Conteúdo gerado via ChatGPT (IA)
 
-- Imagens criadas com apoio de \*\*IA\*\*  
+- Imagens criadas com apoio de IA  
 
 - Revisão e diagramação humanas 
 
